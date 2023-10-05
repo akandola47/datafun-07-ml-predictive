@@ -2,6 +2,13 @@ ARSHPREET KANDOLA
 OCTOBER 5 2023
 PROJECT 7 
 
+https://github.com/akandola47/datafun-07-ml-predictive
+
+WE ARE GOING TO BE WORKING THROUHG PROJECT 7 WHICH DEALS WITH CHAPTERS 10 AND 15
+
+
+
+
 In this final module, you'll employ machine learning (ML). At a high-level, there are three general categories of ML: supervised, unsupervised, and reinforcement learning. We'll employ a type of supervised learning, simple linear regression, to train a model using all available data and use the resulting model (a best-fit straight line) to make predictions.
 
 Python makes it easy! 
@@ -70,4 +77,8 @@ In the active virtual environment, create a Python kernel to run our notebooks.
 
 python -m ipykernel install --user --name .venv --display-name "Python (.venv)"
 
-WE ARE GOING TO BE WORKING THROUHG PROJECT 7 WHICH DEALS WITH CHAPTERS 10 AND 15
+EXECUTING SCRIPTS IN PYTHON
+
+With your repo folder open in VS Code, start exploring. Open, read, and run each project script (each file will have a .py extension) in order. You don't need to fully understand the code yet. Instead, try to figure out what each file is doing.
+
+Open acquainted.py (or another .py file). Read the comments and code carefully. Execute each script - one at a time. On macOS/Linux, change python to python3 in the commands below. python acquainted.py python basic_expressions.py python basic_functions.py python circle_calc.py python data_io.py python easy_stats.py Helpful hint: Hit the up arrow in the terminal to get the last command. Edit as needed and hit return.
